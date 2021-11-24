@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator-coursework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliP2389/portfolio-generator-coursework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliP2389/portfolio-generator-coursework/issues"
+  },
+  "homepage": "https://github.com/EliP2389/portfolio-generator-coursework#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
